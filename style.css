@@ -1,13 +1,17 @@
 * {
     font-family: Verdana, sans-serif;
+    box-sizing: border-box;
+    margin-left: 20px;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Trebuchet MS', sans-serif;
     color: darkblue;
+    margin-left: 100px;
 }
 
 img {
     width: 400px;
     height: auto;
+    margin: 20px;
 }
